@@ -17,7 +17,7 @@ This project is designed to provide an efficient and effective solution for hand
 To install the project, run the following command:
 
 ```
-git clone https://github.com/Vildan56/4_lb.git
+git clone https://github.com/Vildan56/4_test.git
 cd 4_test
 [Additional installation steps]
 ```
