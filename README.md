@@ -1,7 +1,7 @@
 # Project Documentation
 
 ## Project Description
-This project is designed to provide an efficient and effective solution for handling [specific problems the project addresses].
+This project was created as a test case for using the API.
 
 ## Features
 - Feature 1: Поиск флагов.
