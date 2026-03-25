@@ -4,9 +4,8 @@
 This project is designed to provide an efficient and effective solution for handling [specific problems the project addresses].
 
 ## Features
-- Feature 1: Description of the feature.
-- Feature 2: Description of the feature.
-- Feature 3: Description of the feature.
+- Feature 1: Поиск флагов.
+- Feature 2: Добавление в избранное .
 
 ## Tech Stack
 - **Programming Language**: [Language]
@@ -19,7 +18,7 @@ To install the project, run the following command:
 
 ```
 git clone https://github.com/Vildan56/4_lb.git
-cd 4_lb
+cd 4_test
 [Additional installation steps]
 ```
 
@@ -32,7 +31,7 @@ To use this project, follow these guidelines:
 
 ## Project Structure
 ```
-4_lb/
+4_test/
 ├── src/
 │   ├── [source files]
 │   └── [other directories]
